@@ -5,7 +5,7 @@ from setuptools import setup
 setup(
     name='dotlock',
     version='0.1',
-    description='Mandatory cross-process locking',
+    description='Cross-process locking',
     author='Zhihao Yuan',
     author_email='zhihao.yuan@rackspace.com',
     packages=['dotlock'],
